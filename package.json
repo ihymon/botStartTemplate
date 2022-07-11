@@ -1,0 +1,11 @@
+{
+    "scripts": {
+        "start": "node app.js"
+    },
+    "engines": {
+        "node": "16.13.0"
+    },
+    "dependencies": {
+        "node-telegram-bot-api": "^0.58.0"
+    }
+}

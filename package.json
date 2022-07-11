@@ -1,10 +1,16 @@
 {
+    "name": "bot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
     "scripts": {
-        "start": "node app.js"
+        "start": "node index.js"
     },
     "engines": {
         "node": "16.13.0"
     },
+    "author": "",
+    "license": "ISC",
     "dependencies": {
         "node-telegram-bot-api": "^0.58.0"
     }
